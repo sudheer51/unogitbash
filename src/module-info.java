@@ -1,4 +1,3 @@
 module JavaOOPs {
 
-  //Adding comments
 }
